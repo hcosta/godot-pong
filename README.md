@@ -4,4 +4,4 @@ Aprende a crear este y otros videojuegos en mi escuela: [https://hektorprofe.net
 
 Recursos bajo licencia CCBY4: [https://hektorprofe.itch.io/neon-pong](https://hektorprofe.itch.io/neon-pong)
 
-![](.sample.gif) 
+![](./sample.gif) 
