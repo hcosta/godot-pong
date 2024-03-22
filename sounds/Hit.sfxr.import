@@ -1,0 +1,17 @@
+[remap]
+
+importer="com.timothyqiu.gdfxr.importer"
+type="AudioStreamWAV"
+uid="uid://cvgub06rgvybk"
+path="res://.godot/imported/Hit.sfxr-1939db00a0a7b50368d0368a5adfac0a.sample"
+
+[deps]
+
+source_file="res://sounds/Hit.sfxr"
+dest_files=["res://.godot/imported/Hit.sfxr-1939db00a0a7b50368d0368a5adfac0a.sample"]
+
+[params]
+
+loop=false
+bit_depth=0
+sample_rate=0

@@ -1,0 +1,17 @@
+[remap]
+
+importer="com.timothyqiu.gdfxr.importer"
+type="AudioStreamWAV"
+uid="uid://c2vav60xut2kj"
+path="res://.godot/imported/Bounce.sfxr-a3609f1285b6d49d688231724d3ef16e.sample"
+
+[deps]
+
+source_file="res://sounds/Bounce.sfxr"
+dest_files=["res://.godot/imported/Bounce.sfxr-a3609f1285b6d49d688231724d3ef16e.sample"]
+
+[params]
+
+loop=false
+bit_depth=0
+sample_rate=0
